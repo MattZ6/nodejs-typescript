@@ -7,8 +7,7 @@ export function createCourse(_: Request, response: Response) {
 
   createCourse.execute({
     name: 'NodeJS',
-    duration_in_weeks: 2,
-    educator: 'Dani'
+    educator: 'Dani',
   });
 
   return response.send();
