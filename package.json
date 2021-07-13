@@ -1,7 +1,7 @@
 {
   "name": "typescript-ignite",
   "description": "🔥 Aplicação construída como base de conhecimento sobre Typescript, desenvolvida na trilha de NodeJS — Ignite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": {
     "name": "Matheus Felipe Zanin",
