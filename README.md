@@ -46,7 +46,7 @@ Quer conversar? [Chama aqui](https://www.linkedin.com/in/mattz6)!
 
 ## 📜 Licença
 
-[Licença MIT](https://github.com/MattZ6/nodejs-typescript/blob/main/LICENSE.MD) © 2021 [Matheus Felipe Zanin](https://github.com/MattZ6)
+[Licença MIT](https://github.com/MattZ6/nodejs-typescript/blob/main/LICENSE.md) © 2021 [Matheus Felipe Zanin](https://github.com/MattZ6)
 
 ___
 
