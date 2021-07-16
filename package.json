@@ -6,8 +6,10 @@
   "author": {
     "name": "Matheus Felipe Zanin",
     "email": "matt_z6@hotmail.com",
-    "url": "https://github.com/mattz6"
+    "url": "https://github.com/MattZ6"
   },
+  "repository": "https://github.com/MattZ6/nodejs-typescript",
+  "bugs": "https://github.com/MattZ6/nodejs-typescript/issues",
   "dependencies": {
     "express": "4.17.1"
   },
